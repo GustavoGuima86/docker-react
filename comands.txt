@@ -1,0 +1,5 @@
+/home/gustavo/react-front/frontend
+
+
+
+sudo docker run -it -p 3000:3000 -/app/node_modules -v $(pwd):/app 4bcd132471b0
